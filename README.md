@@ -4,10 +4,6 @@ AES
 ===================================
   AES 128 ECB PKCS7Padding.<br />
 
-Requirements
------------------------------------
-* ARC<br />
-
 Usage
 -----------------------------------
 
@@ -24,13 +20,14 @@ Usage
 * Use by including the following import:<br />
 ```#import "AESCrypt.h"```
 
-### Open the Album
+### Encrypt / Decrypt
+
+    NSString *str = @"hello world";
     NSString *str = @"hello world";
     NSString *passwd = @"1234567890abcdef";
-    
+
     NSString *ciphertext = [AESCrypt encrypt:str password:passwd];
     NSString *plaintext = [AESCrypt decrypt:ciphertext password:passwd];
-    
 
 Java source code
 -----------------------------------
