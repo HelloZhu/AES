@@ -8,7 +8,7 @@ Usage
 -----------------------------------
 
 ### Cocoapods import:
-* Pop is available on CocoaPods. Just add the following to your project Podfile:<br />
+* AES is available on CocoaPods. Just add the following to your project Podfile:<br />
 
   ```pod 'AES', '~> 1.0.0'```
 
