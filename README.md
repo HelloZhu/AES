@@ -12,9 +12,7 @@ Usage
 
 ### Cocoapods import:
 * AES is available on CocoaPods. Just add the following to your project Podfile:<br />
-
   ```pod 'AES128'```
-
 * Use by including the following import:<br />
 ```#import <AESCrypt.h>```
 
