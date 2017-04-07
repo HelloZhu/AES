@@ -1,7 +1,10 @@
-[![github](https://github.com/dd2333/DDPhotoAlbum/blob/master/dd2333.png "dd2333")](http://www.dd2333.com)
+# AES
 
-AES
-===================================
+[![LICENSE](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/dd2333/AES/blob/master/LICENSE)&nbsp;
+[![CocoaPods](http://img.shields.io/cocoapods/v/AES128.svg?style=flat)](http://cocoapods.org/?q=AES128)&nbsp;
+[![SUPPORT](https://img.shields.io/badge/support-iOS%207%2B%20-blue.svg?style=flat)](https://en.wikipedia.org/wiki/IOS_7)&nbsp;
+[![BLOG](https://img.shields.io/badge/blog-www.dd2333.com-orange.svg?style=flat)](http://www.dd2333.com)&nbsp;
+
   AES 128 ECB PKCS7Padding.<br />
 
 Usage
@@ -91,6 +94,3 @@ Java source code
         }
     }
 
-License
------------------------------------
-  AES is released under the MIT license.<br />
